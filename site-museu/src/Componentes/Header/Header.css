@@ -1,0 +1,23 @@
+div {
+    display: inline-block;
+}
+
+.direita {
+    align-self: right;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 4rem;
+    padding: 1rem 0rem;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    display: inline-block;
+    margin-left: 13rem;
+}
