@@ -1,4 +1,9 @@
-div {
+a {
+    font-style: none;
+    color: black;
+}
+
+div.header {
     display: inline-block;
 }
 
@@ -15,9 +20,17 @@ header {
     padding: 1rem 0rem;
     justify-content: center;
     align-items: center;
+    position: fixed;
+    top: 0;
 }
 
-p {
+p.menu {
     display: inline-block;
-    margin-left: 13rem;
+    margin-left: 11rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+p.menu:hover {
+    color: #5E89FF;
 }

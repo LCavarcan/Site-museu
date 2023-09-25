@@ -1,0 +1,21 @@
+
+div.start {
+    width: 100vw;
+    background-image: url("../Images/Ibilce.jpg");
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    text-align: center;
+}
+
+h1.image {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: white;
+}
+
+img.ibilce {
+    width: 100%;
+    height: 100%;
+}
